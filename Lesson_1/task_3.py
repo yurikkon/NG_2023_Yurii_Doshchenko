@@ -1,0 +1,1 @@
+while True: print("result: "+str(eval(input("your equation: "))))
